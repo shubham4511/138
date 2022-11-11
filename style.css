@@ -19,3 +19,12 @@ body
 .status_label{
     background-color: white;
 }
+.footer{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: sticky;
+    width: 100%;
+}
